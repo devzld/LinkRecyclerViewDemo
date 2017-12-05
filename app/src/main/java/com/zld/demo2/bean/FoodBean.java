@@ -1,4 +1,4 @@
-package com.zld.demo2;
+package com.zld.demo2.bean;
 
 /**
  * Created by lingdong on 2017/12/5.

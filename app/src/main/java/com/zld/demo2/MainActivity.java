@@ -7,6 +7,11 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 
+import com.zld.demo2.adapter.CategoryAdapter;
+import com.zld.demo2.adapter.MainAdapter;
+import com.zld.demo2.bean.CategoryBean;
+import com.zld.demo2.bean.FoodBean;
+
 import java.util.ArrayList;
 import java.util.List;
 
